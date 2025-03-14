@@ -1,0 +1,5 @@
+v0 = (float(input ("Digite o valor da velocidade inicial:", )))
+a = (float(input ("Digite o valor da aceleração:", )))
+t = (float(input ("Digite o tempo:", )))
+v = (v0 + a*t)
+print("Função horária da velocidade é:",v)

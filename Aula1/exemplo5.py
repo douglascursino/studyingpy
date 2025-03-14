@@ -1,0 +1,5 @@
+x = input("Digite seu nome:")
+print("Ola, " + x + "!")
+print(x, ", Qual curso você faz?")
+y = input("Entre com o nome do curso:")
+print(x, ", faz o curso de", y)

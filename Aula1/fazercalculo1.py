@@ -1,0 +1,5 @@
+B = (float(input ("Digite o valor da base maior do trapézio:", )))
+b = (float(input ("Digite o valor da base menor do trapézio:", )))
+h = (float(input ("Digite o valor da altura do trapézio:", )))
+A = ((B+b)*h/2)
+print("A área do trapézio é =", A)
